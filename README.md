@@ -1,7 +1,7 @@
 # Hi there, I'm Nick! 👋
 
 ## About Me
-- 🌟 Senior Software Engineer with a decade of experience in JavaScript, Java, React, and Node.js.
+- 🌟 Software Engineer with over a decade of experience working across the stack.  Currently focusing on TypeScript development.
 - 🔍 Passionate about creating innovative solutions and leading teams to success.
 - 📚 Lifelong learner and mentor in the tech community.
 
