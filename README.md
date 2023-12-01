@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there, I'm Nick! 👋
 
-<!--
-**nsmaassel/nsmaassel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌟 Senior Software Engineer with a decade of experience in JavaScript, Java, React, and Node.js.
+- 🔍 Passionate about creating innovative solutions and leading teams to success.
+- 📚 Lifelong learner and mentor in the tech community.
 
-Here are some ideas to get you started:
+## My Work
+- 🚀 Check out my [Portfolio](maassel.dev) to see my projects in action.
+- 📈 I love tackling complex problems and turning them into efficient and user-friendly applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/nick-maassel/)
+- 📧 Feel free to reach out for collaborations or just a tech chat!
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
