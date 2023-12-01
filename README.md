@@ -13,4 +13,4 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/nick-maassel/)
 - 📧 Feel free to reach out for collaborations or just a tech chat!
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nsmaassel&show_icons=true)
