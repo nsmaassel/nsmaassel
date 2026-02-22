@@ -4,7 +4,6 @@
 
 I design and ship production AI systems — agents, MCP servers, RAG pipelines, and the full-stack apps that put them to work. I help engineering teams move faster by making AI a first-class development partner.
 
----
 
 ## 🚀 Featured Projects
 
@@ -16,7 +15,6 @@ I design and ship production AI systems — agents, MCP servers, RAG pipelines, 
 | [**HelloMCP**](https://github.com/nsmaassel/HelloMCP) | Production-ready Model Context Protocol server implementations in .NET, Docker, and Azure Functions. | C#, Docker, Azure Functions |
 | [**UserStoryEnhancer**](https://github.com/nsmaassel/UserStoryEnhancer) | Azure Function that uses LangChain + OpenAI to enhance user stories and integrate with task management tools. | TypeScript, LangChain, OpenAI |
 
----
 
 ## 🛠️ What I Build
 
@@ -27,19 +25,16 @@ I design and ship production AI systems — agents, MCP servers, RAG pipelines, 
 - 🖥️ **Full-Stack** — React, Next.js, TypeScript, Node.js, Python, .NET
 - 📊 **Data Pipelines** — Dual-stack storage designs, automated sync, OpenAPI-documented REST services
 
----
 
 ## 🧠 Current Focus
 
 Leading AI-native engineering initiatives: designing systems where AI agents aren't bolted on but built in from day one. Pioneering spec-driven development with AI agent primitives — using structured specs to define responsible AI patterns, align teams before code is written, and keep complex agentic systems maintainable at scale. Particularly interested in MCP tooling and making these patterns accessible to entire engineering orgs.
 
----
 
 ## 💻 Tech Stack
 
 `TypeScript` `Python` `C#` `React` `Next.js` `Node.js` `Azure` `Azure Container Apps` `Azure Functions` `LangChain` `OpenAI` `Gemini` `MCP` `RAG` `GitHub Actions` `Docker` `Cosmos DB` `Neo4j` `FastAPI`
 
----
 
 ## 🌐 Connect
 
