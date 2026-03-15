@@ -21,7 +21,7 @@ I design and ship production AI systems: agents, MCP servers, RAG pipelines, and
 - 🤖 **Agentic AI Systems**: Multi-agent orchestration, MCP integrations, RAG pipelines that ship to production
 - 📝 **Spec-Driven Development**: AI-assisted spec authoring, responsible AI pattern documentation, MVP specs that teams can actually execute against
 - ☁️ **Cloud-Native Apps**: Azure Container Apps, Functions, Static Web Apps, CI/CD with GitHub Actions
-- 🔧 **Developer Experience**: NX monorepo architecture, AI-accelerated workflows, and practices that make teams 10x faster
+- 🔧 **Developer Experience**: NX monorepo architecture, AI-accelerated workflows, and practices that raise the ceiling for entire engineering teams
 - 🖥️ **Full-Stack**: React, Next.js, TypeScript, Node.js, Python, .NET
 - 📊 **Data Pipelines**: Dual-stack storage designs, automated sync, OpenAPI-documented REST services
 
