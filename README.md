@@ -14,6 +14,7 @@ I design and ship production AI systems: agents, MCP servers, RAG pipelines, and
 | [**Wild Rift Meta Dashboard**](https://wildrift.maassel.dev) | Live meta analysis dashboard: champion tier lists, win rates, pick/ban trends. CI-driven data sync via GitHub Actions. | React, Python, Azure Container Apps, CQRS |
 | [**HelloMCP**](https://github.com/nsmaassel/HelloMCP) | Production-ready Model Context Protocol server implementations in .NET, Docker, and Azure Functions. | C#, Docker, Azure Functions |
 | [**UserStoryEnhancer**](https://github.com/nsmaassel/UserStoryEnhancer) | Azure Function that uses LangChain + OpenAI to enhance user stories and integrate with task management tools. | TypeScript, LangChain, OpenAI |
+| [**MTG Commander Deck Builder**](https://github.com/nsmaassel/mtg-deck-builder) | Build optimized 100-card Commander decks from your MTG Arena collection — EDHRec-scored card selection, Commander Bracket power assessment, and AI strategy explanations via Claude. | TypeScript, React, Fastify, Anthropic Claude, NX |
 
 
 ## 🛠️ What I Build
@@ -22,6 +23,7 @@ I design and ship production AI systems: agents, MCP servers, RAG pipelines, and
 - 📝 **Spec-Driven Development**: AI-assisted spec authoring, responsible AI pattern documentation, MVP specs that teams can actually execute against
 - ☁️ **Cloud-Native Apps**: Azure Container Apps, Functions, Static Web Apps, CI/CD with GitHub Actions
 - 🔧 **Developer Experience**: NX monorepo architecture, AI-accelerated workflows, and practices that raise the ceiling for entire engineering teams
+- 📱 **Mobile (SwiftUI)**: iOS and iPad apps — fitness tracking, creative tools, and lifestyle utilities
 - 🖥️ **Full-Stack**: React, Next.js, TypeScript, Node.js, Python, .NET
 - 📊 **Data Pipelines**: Dual-stack storage designs, automated sync, OpenAPI-documented REST services
 
@@ -33,7 +35,7 @@ Leading AI-native engineering initiatives: designing systems where AI agents are
 
 ## 💻 Tech Stack
 
-`TypeScript` `Python` `C#` `React` `Next.js` `Node.js` `Azure` `Azure Container Apps` `Azure Functions` `LangChain` `OpenAI` `Gemini` `MCP` `RAG` `GitHub Actions` `Docker` `Cosmos DB` `Neo4j` `FastAPI`
+`TypeScript` `Python` `C#` `Swift` `SwiftUI` `React` `Next.js` `Node.js` `Azure` `Azure Container Apps` `Azure Functions` `LangChain` `OpenAI` `Gemini` `MCP` `RAG` `GitHub Actions` `Docker` `Cosmos DB` `Neo4j` `FastAPI`
 
 
 ## 🌐 Connect
